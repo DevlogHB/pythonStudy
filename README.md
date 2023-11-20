@@ -37,3 +37,12 @@
 #### py_scope
 
 - 랜덤 숫자 맞추기 프로그램 (스코프)
+
+#### py_class
+
+- 외부 패키지 설치(prettytable) 및 포켓몬 테이블 생성(클래스)
+  > pip install prettytable - https://pypi.org/project/prettytable/
+
+#### py_tuple
+
+- turtle 모듈을 이용한 도형 그리그(튜플)
